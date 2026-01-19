@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain-core
+langchain-text-splitters
+python-dotenv
+openai
